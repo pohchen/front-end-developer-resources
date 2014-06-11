@@ -115,4 +115,4 @@ No dependencies, works with any unit testing framework.
 ## Some References
 - [frontend-tools](https://github.com/codylindley/frontend-tools)
 
-**[轉載文章請註明來源網址](http://learn.logdown.com/posts/205447-front-end-developer-resources), 謝謝!**
+
