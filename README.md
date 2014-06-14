@@ -1,7 +1,8 @@
 front-end-developer-resources
 =============================
 
-**定期從[部落格](http://learn.logdown.com/posts/205447-front-end-developer-resources)更新同步至此, 歡迎發PR補充!**
+**定期從[Blog](http://learn.logdown.com/posts/205447-front-end-developer-resources)更新同步至此, 歡迎發PR補充!**
+
 
 ## Javascript Language & Framework
 - [node.js](http://nodejs.org/)
@@ -27,6 +28,12 @@ front-end-developer-resources
 - [Pure](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
 - [KNACSS](http://www.knacss.com/) - a minimalist, responsive and extensible CSS framework to kick-start any professional web project no matter its size.
 - [Metro UI](http://metroui.org.ua/) - Metro UI CSS a set of styles to create a site with an interface similar to Windows 8.
+- [DynCSS](http://www.vittoriozaccaria.net/dyn-css/) - Simple, dynamic CSS rules to give life to your sites.
+- [bounce.js](http://bouncejs.com/) - bounce.js lets you create tasty CSS3 powered animations in no time. 
+
+## CSS Library
+- [UIBox](http://www.uibox.in/) - Curated HTML, CSS, JS UI Component Library
+- [PatternTap](http://patterntap.com/) - Best Interface Design Categories
 
 ## 開發工具 
 - [Sublime Text](http://www.sublimetext.com/) & vim - The basic
@@ -47,8 +54,8 @@ front-end-developer-resources
 - [Journey From RequireJS to Browserify](http://esa-matti.suuronen.org/blog/2013/03/22/journey-from-requirejs-to-browserify/)
 - [head.js](http://headjs.com/) - HeadJS, a small library for Responsive Design, Feature Detections & Resource Loading
 
-## Templates
-- more...
+## Templates&Random Data Generator
+- [randomuser.me](http://randomuser.me/) - A free API for generating random user data. Like Lorem Ipsum, but for people.
 
 ## mobile App with front-end language
 - [Apache Cordova](http://cordova.apache.org/) - Apache Cordova is a platform for building native mobile applications using HTML, CSS and JavaScript
@@ -68,10 +75,14 @@ front-end-developer-resources
 - [fn.js](http://eliperelman.com/fn.js/) - A JavaScript library built to encourage a functional programming style & strategy.
 - [math.js](http://mathjs.org/) - An extensive math library for JavaScript and Node.js
 - [Keys.js](http://bitwalker.org/keys.js/) - Easy keybindings for browser applications!
+- [Card.js](http://jessepollak.github.io/card/) - Better Credit Card Form in One Line of Code
+- [ScrollMe.js](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages.
 
-## 優化工具
+## 優化&加速工具
 - [CloudFlare](https://www.cloudflare.com/) - CloudFlare is a free global CDN and DNS provider that can speed up and protect any site online.
 - [Benchmark.js](http://benchmarkjs.com/) - A robust benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
+- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) -  a tool that analyzes pages and offers advice on how to make them faster based on best practices for mobile and desktop web performance.
+- [Automating Web Performance Measurement](http://updates.html5rocks.com/2014/06/Automating-Web-Performance-Measurement) - intro to PSI, a new module that works great with Gulp, Grunt and other build systems and can connect up to the PageSpeed Insights service and return a detailed report of your web performance. 
 
 ## 後端工具&資料庫
 - [Parse](https://parse.com/) - Parse is a complete technology stack to power your app's backend.
@@ -82,6 +93,10 @@ front-end-developer-resources
 - [InVision](http://www.invisionapp.com/) - Free Web & Mobile (iOS, Android) Prototyping and UI Mockup Tool
 - [Dribbble](https://dribbble.com/) - social network for designer
 - [Node.js in Production](http://blog.carbonfive.com/2014/06/02/node-js-in-production/) - Jeff Dickey wrote on the Carbon Five blog about some of his recommendations for putting Node.js apps into production. The articles goes over how to ensure your Node apps stay stable, fast, secure and maintainable.
+- [GuideGuide](http://guideguide.me/) - Dealing with grids in Photoshop is a pain
+
+## 設計文章
+- [Stripe 如何設計付款流程動畫](http://www.inside.com.tw/2014/04/25/how-does-stripe-improve-their-checkout-flow-by-animations)
 
 ## 測試框架
 - [Mocha](http://visionmedia.github.io/mocha/) - a feature-rich JavaScript test framework running on node.js and the browser, making asynchronous testing simple and fun. 
@@ -96,10 +111,20 @@ No dependencies, works with any unit testing framework.
 - [Sass教學手冊](http://sam0512.blogspot.tw/2013/10/sass.html) by 廖洧杰
 - [HTML5 ROCKS](http://www.html5rocks.com/en/)
 - [100PercentJS](http://www.100percentjs.com/) - Notes about full stack Javascript software development
+http://railsbridge-docs-zh-tw.herokuapp.com/docs/
 
 ## 訂閱&Podcast
 - [5 Minutes of JavaScript](http://five-js.envylabs.com/)
 - [Ruby5](http://ruby5.envylabs.com/)
+
+## 字型
+- [Type Sample](http://www.typesample.com/) - a tool for identifying and sampling webfonts
+- [justfont就是字](http://www.justfont.com/) - 中文雲端字型 (web font) 服務，讓您在網頁中直接使用字型
+
+## Swift
+- [The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html) - Official Document
+- [中文版 Apple 官方 Swift 教程](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
+- [swift-cheat-sheet](https://github.com/grant/swift-cheat-sheet)
 
 ## 其他實用資源
 - [Mocky](http://www.mocky.io/) - Mock your HTTP responses to test your REST API
@@ -115,4 +140,4 @@ No dependencies, works with any unit testing framework.
 ## Some References
 - [frontend-tools](https://github.com/codylindley/frontend-tools)
 
-
+**歡迎發 [Github PR](https://github.com/pohchen/front-end-developer-resources) 補充更新, 謝謝!**
