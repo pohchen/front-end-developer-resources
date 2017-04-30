@@ -99,7 +99,7 @@ front-end-developer-resources
 - [Stripe 如何設計付款流程動畫](http://www.inside.com.tw/2014/04/25/how-does-stripe-improve-their-checkout-flow-by-animations)
 
 ## 測試框架
-- [Mocha](http://visionmedia.github.io/mocha/) - a feature-rich JavaScript test framework running on node.js and the browser, making asynchronous testing simple and fun. 
+- [Mocha](http://mochajs.org/) - a feature-rich JavaScript test framework running on node.js and the browser, making asynchronous testing simple and fun. 
 - [Chai](http://chaijs.com/) - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
 - [Sinon](http://sinonjs.org/) - Standalone test spies, stubs and mocks for JavaScript.
 No dependencies, works with any unit testing framework.
